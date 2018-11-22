@@ -1,0 +1,7 @@
+Configure Moodle LMS
+Enable Web Service function: Site Administration > Advanced features, check Enable web services and Save Changes.
+To enable Mobile access, go to Site Administration > Plugins > Web services and click on Mobile.
+Finally, tick the checkbox to Enable web services for mobile devices.
+
+https://docs.moodle.org/dev/Setting_up_your_development_environment_for_Moodle_Mobile_2
+https://docs.moodle.org/dev/Moodle_Mobile_custom_apps
